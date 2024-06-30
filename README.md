@@ -13,4 +13,3 @@
 <br>
 <img src="https://scontent.ftpe14-1.fna.fbcdn.net/v/t39.30808-6/429911148_10233179997703069_789262598774864665_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=REgyg7Ji2fsQ7kNvgHcVXPD&_nc_ht=scontent.ftpe14-1.fna&oh=00_AYB9tdnYBXFyLpPF6oTnAVHKes0Kb0h2be8kLHt4ItRY5Q&oe=6686AFAE">
 <br>
-![image](https://github.com/samofor/samofor.github.io/assets/23491123/bef0491d-2036-47e7-84e7-1dcbda477d9c)
